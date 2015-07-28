@@ -1,0 +1,22 @@
+{
+  "name": "youtube-stream-url",
+  "version": "0.0.1",
+  "description": "Gets URL stream for Youtube video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "url",
+    "stream"
+  ],
+  "author": "Mikołaj Stolarski",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "request": "^2.60.0"
+  }
+}
